@@ -23,6 +23,9 @@
 - [Top Rated HVAC Contractor Ma Lexington](https://local-business-guides.github.io/perfecttemp-hvac-service-lexington/top-rated-hvac-contractor-ma-lexington/): Searching for a Top Rated HVAC Contractor Ma Lexington? Get AC repair from NATE Certified technicians in Lexington. Call PerfectTemp HVAC Service today.
 - [Licensed HVAC Contractor Ma Lexington](https://local-business-guides.github.io/perfecttemp-hvac-service-lexington/licensed-hvac-contractor-ma-lexington/): Need a Licensed HVAC Contractor Ma Lexington? Check credentials and arrange AC repair in Lexington with PerfectTemp HVAC Service. Call today for help.
 
+## Newsroom
+- [PerfectTemp Shares HVAC Contractor Lexington MA Guide in Several Formats](https://local-business-guides.github.io/perfecttemp-hvac-service-lexington/news/2026-11-08-perfecttemp-shares-hvac-contractor-lexington-ma/): PerfectTemp HVAC Service released a guide on HVAC Contractor Lexington MA, plus a YouTube video, a podcast episode and a SoundCloud audio version. (2026-11-08)
+
 ## Pages
 - [HVAC Contractor in Lexington, Massachusetts](https://local-business-guides.github.io/perfecttemp-hvac-service-lexington/): Get help with AC problems and HVAC service from a local Lexington team, with same-day and emergency service available. Call +1339-232-2300.
 - [About PerfectTemp HVAC Service](https://local-business-guides.github.io/perfecttemp-hvac-service-lexington/about/): About PerfectTemp HVAC Service, Lexington.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/perfecttemp-hvac-service-lexington/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/perfecttemp-hvac-service-lexington/news/rss.xml)
 - [Main resource site](https://perfecttemp-lexington-ma.localbusinesses1.chatgpt.site)
